@@ -1,4 +1,4 @@
-# Manual QA Testing – QA Automation Labs E-Commerce
+# Manual QA Testing - QA Automation Labs E-Commerce
 
 A manual software testing portfolio project focused on validating key user workflows of the [QA Automation Labs E-Commerce website](https://shop.qaautomationlabs.com/). The project includes a test plan, executed test cases, defect reports, and a test execution summary.
 
